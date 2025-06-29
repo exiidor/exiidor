@@ -1,8 +1,6 @@
 <h1> Hi, I'm Kevin. </h1>
 I am a student at DIT and study Software Design.
 
-<h3> My Tech Stack </h3>
-
 <h4> Programming Languages </h4>
 <p align="left">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45" />
